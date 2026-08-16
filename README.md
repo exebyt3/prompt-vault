@@ -9,7 +9,7 @@ Model behavior is shaped by large instruction scaffolds that never see the light
 Extracted system prompts and related instruction files from major models and agents. The archive grows as new material is found:
 
 ```
-cursor/    — Cursor (models & subagents)
+Cursor/    — Cursor (models & subagents)
 chatgpt/   — ChatGPT / OpenAI
 claude/    — Claude / Anthropic
 grok/      — Grok / xAI
